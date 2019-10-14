@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "letsworkoutapi",
   "version": "1.0.0",
   "description": "this api will fetch workout details",
   "main": "index.js",
