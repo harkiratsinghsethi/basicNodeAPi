@@ -20,5 +20,13 @@
     "express": "^4.17.1",
     "request": "^2.88.0",
     "require": "^2.4.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harkiratsinghsethi/basicNodeAPi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harkiratsinghsethi/basicNodeAPi/issues"
+  },
+  "homepage": "https://github.com/harkiratsinghsethi/basicNodeAPi#readme"
 }
